@@ -5,14 +5,19 @@ I'm Md Majedul Islam, a Machine Learning Engineer at [Apurba Technologies](http:
 ```💻 Currently I am looking for a Ph.D opportunity.```
 <br />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=CV+and+NLP+Researcher.;Python+Developer+with;3%2B+Years+of+Experience.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=CV+and+NLP+Researcher.;Python+Developer+with+3%2B+Years+of+Experience.)](https://git.io/typing-svg)
 
-:mailbox: Reach me out!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Md_Majedul-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/majedrifat/)
-[![Researchgate Badge](https://img.shields.io/badge/-Md_Majedul_islam-00caba?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Md-Islam-223) 
-[![Google Scholar](https://img.shields.io/badge/-Md_Majedul_islam-77a9fa?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=a_ArAUUAAAAJ)
-[![Mail Badge](https://img.shields.io/badge/-Mail-c0392b?style=for-the-badge&logo=gmail&logoColor=white)](mailto:majed.rifat@gmail.com)
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1660415347/60611/waving-hand.gif?1660415347" width="35"> Reach me out!</h2>
+<p align="center">
+  <div align="center">
+    <a href="https://www.linkedin.com/in/majedrifat/"><img src="https://img.shields.io/badge/-Md_Majedul_islam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://www.researchgate.net/profile/Md-Islam-223"><img src="https://img.shields.io/badge/-Md_Majedul_islam-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"></a>
+    <a href="https://scholar.google.com/citations?hl=en&user=wD1PVDMAAAAJ"><img src="https://img.shields.io/badge/-Md_Majedul_islam-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"></a>
+    <a href="mailto:majed.rifat@gmail.com"><img src="https://img.shields.io/badge/-Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  </div>
+</p>
+
 ---
 ### Reseach Interest
 - Computer Vision (CV)
