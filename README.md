@@ -90,7 +90,9 @@ See more on [![Google Scholar](https://img.shields.io/badge/-My_Google_Scholar-7
     <img alt="Pytorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/>
   </a>
 </p>
+
 <br/>
+
 ### 👉 Databases & Cloud Hosting
 <p align="left">
   &emsp;
@@ -100,7 +102,9 @@ See more on [![Google Scholar](https://img.shields.io/badge/-My_Google_Scholar-7
   &emsp;
     <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
   &emsp;
+  
 <br/>
+
  ### 👉 Software & Tools
  
 <p>
