@@ -1,3 +1,6 @@
+<img src="https://media.giphy.com/media/f7omQNmgiyjj5sffvZ/giphy.gif" width="250px">
+
+
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, thanks for dropping by!</h1>
 
 I'm Md Majedul Islam, a Machine Learning Engineer at [Apurba Technologies](http://www.apurbatech.com/) 👨🏻‍💻 from Bangladesh and a Computer Vision (CV) and Natural Language Processing (NLP) enthusiast. I am experienced in research, development and deployment of machine learning and deep learning models and accustomed to data analysis and visualization.
