@@ -16,7 +16,7 @@ I'm Md Majedul Islam, a Machine Learning Engineer at [Apurba Technologies](http:
   <div align="center">
     <a href="https://www.linkedin.com/in/majedrifat/"><img src="https://img.shields.io/badge/-Md_Majedul_islam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="https://www.researchgate.net/profile/Md-Islam-223"><img src="https://img.shields.io/badge/-Md_Majedul_islam-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"></a>
-    <a href="https://scholar.google.com/citations?hl=en&user=wD1PVDMAAAAJ"><img src="https://img.shields.io/badge/-Md_Majedul_islam-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"></a>
+    <a href="https://scholar.google.com/citations?user=a_ArAUUAAAAJ&hl=en"><img src="https://img.shields.io/badge/-Md_Majedul_islam-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"></a>
     <a href="mailto:majed.rifat@gmail.com"><img src="https://img.shields.io/badge/-Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
   </div>
 </p>
@@ -37,7 +37,7 @@ I'm Md Majedul Islam, a Machine Learning Engineer at [Apurba Technologies](http:
 - [Convolutional Neural Network Hyper-Parameter Optimization Using Particle Swarm Optimization.](https://link.springer.com/chapter/10.1007/978-981-33-4367-2_350) Emerging Technologies in Data Mining and Information Security,2021
 - [Performance Measurement of Multiple Supervised Learning Algorithms for Bengali News Headline Sentiment Classification.](https://ieeexplore.ieee.org/abstract/document/9117477/) 2019 8th International Conference System Modeling and Advancement in Research Trends (SMART) , 2020
 
-See more on [![Google Scholar](https://img.shields.io/badge/-My_Google_Scholar-77a9fa?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=a_ArAUUAAAAJ)
+See more on [![Google Scholar](https://img.shields.io/badge/-My_Google_Scholar-77a9fa?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=a_ArAUUAAAAJ&hl=en)
 
 <br/>
 
