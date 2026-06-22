@@ -5,7 +5,7 @@
 
 I'm Md Majedul Islam, a Machine Learning Engineer at [Apurba Technologies](http://www.apurbatech.com/) 👨🏻‍💻 from Bangladesh and a Computer Vision (CV) and Natural Language Processing (NLP) enthusiast. I am experienced in research, development and deployment of machine learning and deep learning models and accustomed to data analysis and visualization.
 
-```💻 Currently I am looking for a Ph.D opportunity.```
+```💻 Currently I am looking for a postdoc opportunity.```
 <br />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=CV+and+NLP+Researcher.;Python+Developer+with+3%2B+Years+of+Experience.)](https://git.io/typing-svg)
